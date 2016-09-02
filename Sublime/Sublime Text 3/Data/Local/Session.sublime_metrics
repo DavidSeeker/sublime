@@ -1,0 +1,16 @@
+{
+	"licensed": true,
+	"packages":
+	[
+		"0_package_control_loader",
+		"Insert Callback"
+	],
+	"startup_sec": 4.9522178,
+	"syntax":
+	{
+		"JSON": 4,
+		"PHP": 4,
+		"Plain text": 2
+	},
+	"time": 1472699723
+}

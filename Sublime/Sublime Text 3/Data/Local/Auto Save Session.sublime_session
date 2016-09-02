@@ -1,0 +1,1226 @@
+{
+	"folder_history":
+	[
+		"/E/wamp64/www/project",
+		"/E/wamp64/www/swall",
+		"/E/wamp64/www/sWall",
+		"/E/wamp64/www/iWall",
+		"/E/wamp64/www/sendMessage",
+		"/E/wamp64/www/ipromo",
+		"/E/wamp64/www/smartyEngine",
+		"/E/wamp64/www/appid4a90doau66",
+		"/E/wamp64/www/project/project",
+		"/E/wamp64/www/xiaomi",
+		"/E/wamp64/www/dami",
+		"/F/Desktop/project",
+		"/E/wamp64/www/laravel/phoneWeb",
+		"/E/XAMM/htdocs/xampp/composer/namespace",
+		"/E/XAMM/htdocs/xampp/composer/laravel",
+		"/E/XAMM/htdocs/xampp/composer/composer",
+		"/F/Desktop/JS/mvc/MVC"
+	],
+	"last_version": 3047,
+	"last_window_id": 16,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 500.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"t",
+						"think"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"mysql",
+						"mysqlinfo"
+					],
+					[
+						"mysql_get",
+						"mysql_get_server_info"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 271.0,
+				"selected_items":
+				[
+				],
+				"width": 600.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/wamp64/www/project/project/app/Http/Controllers/ArticleController.php",
+				"/E/wamp64/www/xiaomi/resources/views/layout/index.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/article/detail.blade.php",
+				"/E/wamp64/www/xiaomi/public/home/js/jquery.js",
+				"/E/wamp64/www/xiaomi/app/article.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/CustomerController.php",
+				"/E/wamp64/www/xiaomi/app/Http/routes.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/ArticleController.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/registerReminder.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/forget.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/emails/forget.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Requests/LoginRequest.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/register.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Requests/UserInsertRequest.php",
+				"/E/wamp64/bin/apache/apache2.4.18/conf/extra/httpd-vhosts.conf",
+				"/E/wamp64/www/xiaomi/storage/framework/views/12187c4ca8aa92bd2a4c6f870173698b",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/login.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/reset.blade.php",
+				"/E/wamp64/www/xiaomi/config/app.php",
+				"/E/wamp64/www/xiaomi/config/mail.php",
+				"/E/wamp64/www/xiaomi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php",
+				"/E/wamp64/www/project/project/resources/views/index/user/register.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/emails/doRegister.blade.php",
+				"/E/wamp64/www/project/project/app/Http/Controllers/UserController.php",
+				"/E/wamp64/www/xiaomi/.env",
+				"/E/wamp64/bin/apache/apache2.4.18/conf/httpd.conf",
+				"/E/wamp64/www/project/project/resources/views/emails/register.blade.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_031130_create_users_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_032628_create_comments_table.php",
+				"/E/wamp64/www/xiaomi/app/common/vcode.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/CateController.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/UserController.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/pCenter.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/login.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Kernel.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/index.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/layout/admin.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/user/uCenter.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/AdminController.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/user/index.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/article/index.blade.php",
+				"/E/wamp64/www/project/project/app/Http/Controllers/AdminController.php",
+				"/E/wamp64/www/project/project/resources/views/admin/login.blade.php",
+				"/E/wamp64/www/project/project/app/Http/routes.php",
+				"/E/wamp64/www/project/project/app/Http/Controllers/ImageController.php",
+				"/E/wamp64/www/project/project/app/Http/Middleware/LoginMiddleware.php",
+				"/E/wamp64/www/xiaomi/app/Http/Middleware/LoginMiddleware.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/ImageController.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/article/edit.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/goods/edit.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/goods/index.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/GoodsController.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/goods/add.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/article/add.blade.php",
+				"/E/wamp64/www/xiaomi/app/goods.php",
+				"/E/wamp64/www/project/project/app/Goods.php",
+				"/E/wamp64/www/project/project/app/Common/function.php",
+				"/E/wamp64/www/project/project/resources/views/admin/goods/add.blade.php",
+				"/E/wamp64/www/project/project/resources/views/admin/goods/index.blade.php",
+				"/E/wamp64/www/xiaomi/app/common/function.php",
+				"/E/wamp64/www/xiaomi/app/Http/Requests/InsertGoodsRequest.php",
+				"/E/wamp64/www/xiaomi/vendor/phpspec/phpspec/src/PhpSpec/CodeGenerator/Generator/templates/named_constructor_create_object.template",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/LoginController.php",
+				"/E/wamp64/www/project/project/resources/views/admin/article/index.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Requests/InsertArticleRequest.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/cate/index.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/cate/edit.blade.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_073439_create_cates_table.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/user/edit.blade.php",
+				"/E/wamp64/www/project/project/resources/views/admin/cate/index.blade.php",
+				"/E/wamp64/www/project/project/resources/views/admin/user/index.blade.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_032547_create_goods_table.php",
+				"/E/wamp64/www/project/project/app/User.php",
+				"/E/wamp64/www/project/project/app/Http/Controllers/CateController.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_032045_create_articles_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_032603_create_images_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_035520_create_cates_table.php",
+				"/E/wamp64/www/project/project/database/migrations/2016_07_14_083811_create_goods_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2014_10_12_000000_create_users_table.php.bak",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_22_074238_create_articles_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_000839_create_images_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_000812_create_Goods_table.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/user/register.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/user/ucenter.blade.php",
+				"/E/wamp64/www/xiaomi/composer.json",
+				"/E/wamp64/www/xiaomi/resources/views/index/user/login.blade.php",
+				"/E/wamp64/www/project/project/resources/views/layout/index.blade.php",
+				"/E/wamp64/www/xiaomi/public/BSM/Admin/js/libs/jquery-1.8.3.js",
+				"/E/wamp64/www/xiaomi/public/index/common/yanzhengma.php",
+				"/E/wamp64/www/xiaomi/app/common/yanzhengma.php",
+				"/E/wamp64/www/xiaomi/vendor/danielstjules/stringy/tests/CommonTest.php",
+				"/E/wamp64/www/xiaomi/vendor/sebastian/diff/src/LCS/LongestCommonSubsequence.php",
+				"/E/wamp64/www/xiaomi/public/index/zhuce/getCode",
+				"/F/Desktop/project/zhishi.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_25_015219_create_goods_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_25_015233_create_images_table.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/index/login.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/user/registerReminder.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/user/forget.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/user/reset.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/register.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/login.blade.php",
+				"/F/Desktop/project/resources/views/admin/article/index.blade.php",
+				"/F/Desktop/project/app/Http/Controllers/ArticleController.php",
+				"/F/Desktop/project/database/migrations/2016_07_14_083811_create_goods_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_23_112800_create_goods_table.php",
+				"/E/wamp64/www/xiaomi/storage/framework/views/76036f84ab30d79d7b508169f68d12f1",
+				"/F/Desktop/project/resources/views/admin/article/edit.blade.php",
+				"/E/wamp64/www/xiaomi/database/seeds/InsertUserSeeder.php",
+				"/E/wamp64/www/xiaomi/database/seeds/DatabaseSeeder.php",
+				"/F/Desktop/project/app/Http/routes.php",
+				"/F/Desktop/project/resources/views/admin/article/add.blade.php",
+				"/F/Desktop/project/app/Http/Requests/InsertArticleRequest.php",
+				"/F/Desktop/project/config/app.php",
+				"/E/wamp64/www/xiaomi/public/BSM/UEditor/index.html",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/F/Desktop/project/app/Http/Controllers/CateController.php",
+				"/F/Desktop/project/resources/views/admin/cate/edit.blade.php",
+				"/F/Desktop/project/resources/views/admin/cate/index.blade.php",
+				"/F/Desktop/project/database/migrations/2016_07_13_003957_create_article_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_21_144537_create_cates_table.php",
+				"/F/Desktop/project/app/Http/Requests/Request.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/cate/add.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/user/add.blade.php",
+				"/F/Desktop/project/resources/views/admin/cate/add.blade.php",
+				"/F/Desktop/project/app/Http/Requests/UpdateCateRequest.php",
+				"/E/wamp64/www/xiaomi/app/Http/Requests/UpdateCateRequest.php"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"E:\\wamp64\\www\\xiaomi",
+					"E:\\wamp64\\www\\xiaomi\\public"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					" ",
+					"shop/small/1.jpg",
+					"1.gravatar.com",
+					"images/shop/small/1.jpg",
+					"6.jpg",
+					"twitter",
+					"src=\"",
+					"img.*src=\"",
+					"img src=\"",
+					"avator",
+					"http://mi.com/index/article/images/shop/small/1.jpg",
+					"api",
+					"api.fli",
+					"api.flikr",
+					"api.flickr",
+					"pre",
+					"preloader.gif",
+					"avatar",
+					"avator",
+					"/index",
+					"1.jpg",
+					"api",
+					"href",
+					"src",
+					"avator",
+					"<img src=\"",
+					"src=\"/home/",
+					"qr",
+					"qra",
+					"qravatar",
+					"src=\"",
+					"TWITTER",
+					"required",
+					"require",
+					"H\n",
+					"Hello\n",
+					",\n",
+					"login",
+					"href",
+					"%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83_files",
+					"src",
+					"main",
+					"main-container",
+					"main_container",
+					"form",
+					"src",
+					"href",
+					"click",
+					"js",
+					"inde/Register",
+					"ibutton-container",
+					".ibutton-container",
+					"status",
+					"getAllCates",
+					"<img alt=\"mws admin\" ",
+					"<img alt=\"mws admin\" src=\"/BSM/Admin/images/mws-logo.png\">",
+					"MWS",
+					"mws",
+					"img",
+					"image",
+					"vhost",
+					"  	\n",
+					"request",
+					"vhost",
+					"cate",
+					"table",
+					"local",
+					"denied",
+					"local",
+					"VHOST",
+					"container",
+					"route",
+					"mws-logo-wrap",
+					"mws-stat-content",
+					"container",
+					"profile",
+					"MS-LOG",
+					"ms-logo",
+					"MS-logo",
+					"vhost",
+					"javascript",
+					"i++;",
+					");\n",
+					">';\n",
+					";\n",
+					"');\n",
+					";\n",
+					">';\n",
+					";\n",
+					");",
+					"sanwei",
+					"echo ltrim($str,'&');",
+					"\";\n",
+					"var strDate = \"现在是:\"",
+					":\"\n",
+					"		\n",
+					"reg"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"img src=\"/home/",
+					"<img src=\"/home/",
+					"src=\"",
+					"src=\"/home/",
+					"/index/U-center"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"12187c4ca8aa92bd2a4c6f870173698b",
+						"xiaomi\\storage\\framework\\views\\12187c4ca8aa92bd2a4c6f870173698b"
+					],
+					[
+						"validator",
+						"xiaomi\\vendor\\laravel\\framework\\src\\Illuminate\\Validation\\Validator.php"
+					],
+					[
+						"common",
+						"xiaomi\\vendor\\danielstjules\\stringy\\tests\\CommonTest.php"
+					],
+					[
+						"jquery-1.8.3",
+						"xiaomi\\public\\BSM\\Admin\\js\\libs\\jquery-1.8.3.js"
+					],
+					[
+						"",
+						"xiaomi\\resources\\views\\index\\user\\login.blade.php"
+					],
+					[
+						"76036f84ab30d79d7b508169f68d12f1",
+						"xiaomi\\storage\\framework\\views\\76036f84ab30d79d7b508169f68d12f1"
+					],
+					[
+						"request",
+						"project\\app\\Http\\Requests\\Request.php"
+					],
+					[
+						"cd2cbb1ffe66c5886c3a1301a73d1b2b",
+						"xiaomi\\storage\\framework\\views\\cd2cbb1ffe66c5886c3a1301a73d1b2b"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 259.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 842.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"t",
+						"think"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"mysql",
+						"mysqlinfo"
+					],
+					[
+						"mysql_get",
+						"mysql_get_server_info"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/wamp64/www/swall/sftp-config.json",
+					"settings":
+					{
+						"buffer_size": 1383,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp64/www/swall/public/index.php",
+					"settings":
+					{
+						"buffer_size": 1780,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/wamp64/www/swall/resources/views/welcome.blade.php",
+					"settings":
+					{
+						"buffer_size": 2563,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/wamp64/www/swall/routes/web.php",
+					"settings":
+					{
+						"buffer_size": 555,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/wamp64/www/swall/app/Http/Controllers/UserController.php",
+					"settings":
+					{
+						"buffer_size": 304,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/wamp64/www/swall/resources/views/index/user/register.blade.php",
+					"settings":
+					{
+						"buffer_size": 2477,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/wamp64/www/project/resources/views/index/user/register.blade.php",
+					"settings":
+					{
+						"buffer_size": 2469,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"selected_items":
+				[
+					[
+						"control pa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/wamp64/www/swall/sftp-config.json",
+				"/E/wamp64/www/swall/public/index.php",
+				"/E/wamp64/www/sWall/sftp-config.json",
+				"/E/wamp64/bin/apache/apache2.4.18/conf/httpd.conf",
+				"/E/wamp64/bin/apache/apache2.4.18/conf/extra/httpd-vhosts.conf",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/E/wamp64/www/iWall/rand.php",
+				"/E/Sublime/Sublime Text 3/Data/Packages/User/sftp_servers/test",
+				"/F/Desktop/JS/ajax/5.html",
+				"/F/Desktop/JS/ajax/6.html",
+				"/E/wamp64/www/sendMessage/js.html",
+				"/E/wamp64/bin/apache/apache2.4.18/conf/httpd - 副本.conf",
+				"/E/wamp64/www/function.php",
+				"/F/Desktop/JS/jquery4/sendMessage.php",
+				"/F/Desktop/JS/jquery4/checkVcode.php",
+				"/F/Desktop/JS/jquery4/checkUser.php",
+				"/E/wamp64/www/sendMessage/sendMessage.php",
+				"/E/wamp64/www/xiaomi/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php",
+				"/E/wamp64/www/2.php",
+				"/E/wamp64/www/appid4a90doau66/index.php",
+				"/E/wamp64/www/smartyEngine/Mytpl.class.php",
+				"/E/wamp64/www/index.php",
+				"/E/wamp64/www/ceshi.php",
+				"/E/wamp64/www/project/project/app/Http/Controllers/AdminController.php",
+				"/E/wamp64/www/memcache/goods.php",
+				"/E/wamp64/apps/phpmyadmin4.5.5.1/config.inc.php",
+				"/E/linux/2.常用命令/Linux 命令大全(修改版).chw",
+				"/E/wamp64/www/ce.php",
+				"/E/wamp64/www/js.html",
+				"/E/wamp64/www/appid4a90doau66/function.php",
+				"/E/wamp64/www/jifenqiang/swall/.git/config",
+				"/E/XAMM/htdocs/xampp/shop/order.php",
+				"/E/XAMM/htdocs/xampp/shop/doaction1.php",
+				"/E/XAMM/htdocs/xampp/shop/addfriend.php",
+				"/E/XAMM/htdocs/xampp/shop/index.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/goods/index.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/routes.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/goods/detail.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/cart/confirm.blade.php",
+				"/E/XAMM/htdocs/xampp/shop/admin/index.php",
+				"/E/XAMM/htdocs/xampp/shop/public/common/config.php",
+				"/E/wamp64/www/xiaomi/app/goods.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/GoodsController.php",
+				"/E/XAMM/htdocs/xampp/shop/reg.php",
+				"/E/XAMM/htdocs/xampp/shop/doaction.php",
+				"/E/XAMM/htdocs/xampp/shop/public/common/header.php",
+				"/E/wamp64/www/project/project/app/Http/Controllers/GoodsController.php",
+				"/E/wamp64/weixin/wx_sample.php",
+				"/E/wamp64/www/test.html",
+				"/E/PHPSTORM/PhpStorm 2016.2/汉化替换/resources_en.jar",
+				"/F/编程语言/c++ xtp库/c++ xtp库/ToolkitPro1321vc60S.lib",
+				"/E/wamp64/www/file.php",
+				"/E/wamp64/www/database/link.php",
+				"/E/wamp64/bin/mysql/mysql5.7.11/data/Mr-FaceBooker.err",
+				"/E/wamp64/www/weixin/appid4a90doau66/index.php",
+				"/E/wamp64/www/edit.blade.php",
+				"/E/wamp64/www/memcache/phpinfo.php",
+				"/E/wamp64/www/memcache/2.php",
+				"/E/wamp64/www/memcache/1.php",
+				"/E/wamp64/www/xiaomi/memcache/phpinfo.php",
+				"/E/wamp64/bin/apache/apache2.4.18/bin/php.ini",
+				"/E/wamp64/www/js/erjiliandong.html",
+				"/E/wamp64/www/project/project/app/Http/Controllers/ArticleController.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/CommentController.php",
+				"/E/wamp64/www/xiaomi/app/comment.php",
+				"/E/wamp64/www/project/project/app/Comment.php",
+				"/E/wamp64/www/xiaomi/config/session.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/article/list.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/article/detail.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/ArticleController.php",
+				"/E/wamp64/www/xiaomi/resources/views/layout/index.blade.php",
+				"/E/wamp64/www/xiaomi/app/article.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_032628_create_comments_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_032045_create_articles_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_30_115858_create_order_goods_table.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_30_114914_create_orders_table.php",
+				"/E/wamp64/www/xiaomi/storage/framework/views/c0a09f042c3d5cc4e7e9f35a68094989",
+				"/E/wamp64/www/project/project/resources/views/index/article/detail.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/order/reminder.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/CustomerController.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/CartController.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/cart/index.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/cart/reminder.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/OrderController.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/CateController.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/AddressController.php",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_30_053836_create_addresses_table.php",
+				"/E/wamp64/www/xiaomi/app/common/function.php",
+				"/E/wamp64/www/xiaomi/composer.json",
+				"/E/wamp64/HTML_cavas/HTML/modal-popovers.html",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_29_111722_session.php",
+				"/E/wamp64/www/xiaomi/.env",
+				"/E/wamp64/www/xiaomi/database/migrations/2016_07_27_031130_create_users_table.php",
+				"/E/wamp64/www/project/project/app/Http/Controllers/CommentController.php",
+				"/E/wamp64/www/project/project/app/Http/routes.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/login.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/reset.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/registerReminder.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/register.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/forget.blade.php",
+				"/E/wamp64/www/xiaomi/public/home/style.css",
+				"/E/wamp64/www/xiaomi/public/home/js/jquery.js",
+				"/E/wamp64/www/xiaomi/resources/views/emails/forget.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Requests/LoginRequest.php",
+				"/E/wamp64/www/xiaomi/app/Http/Requests/UserInsertRequest.php",
+				"/E/wamp64/www/xiaomi/storage/framework/views/12187c4ca8aa92bd2a4c6f870173698b",
+				"/E/wamp64/www/xiaomi/config/app.php",
+				"/E/wamp64/www/xiaomi/config/mail.php",
+				"/E/wamp64/www/xiaomi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php",
+				"/E/wamp64/www/project/project/resources/views/index/user/register.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/emails/doRegister.blade.php",
+				"/E/wamp64/www/project/project/app/Http/Controllers/UserController.php",
+				"/E/wamp64/www/project/project/resources/views/emails/register.blade.php",
+				"/E/wamp64/www/xiaomi/app/common/vcode.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/UserController.php",
+				"/E/wamp64/www/xiaomi/resources/views/index/customer/pCenter.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/login.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Kernel.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/index.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/layout/admin.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/user/uCenter.blade.php",
+				"/E/wamp64/www/xiaomi/app/Http/Controllers/AdminController.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/user/index.blade.php",
+				"/E/wamp64/www/xiaomi/resources/views/admin/article/index.blade.php",
+				"/E/wamp64/www/project/project/resources/views/admin/login.blade.php",
+				"/E/wamp64/www/project/project/app/Http/Controllers/ImageController.php",
+				"/E/wamp64/www/project/project/app/Http/Middleware/LoginMiddleware.php",
+				"/E/wamp64/www/xiaomi/app/Http/Middleware/LoginMiddleware.php"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"E:\\wamp64\\www\\xiaomi",
+					"E:\\wamp64\\www\\xiaomi\\public"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"include ",
+					"require",
+					"DB_NAME",
+					"weixin",
+					"extension",
+					"php_memcache",
+					"extension",
+					"content",
+					"tab",
+					"tab_content",
+					"endforeach",
+					"image-circle",
+					"?",
+					"entry-image ",
+					"entry image",
+					"confirm",
+					"提交",
+					"total",
+					"dd",
+					"form",
+					"img class",
+					"gravator",
+					"http://mi.com/index/goods/detail/images/shop/brand2.jpg",
+					"http://mi.com/home/js/plugins.js",
+					"avator",
+					"img src=\"",
+					"{{$v->content}}",
+					"comments",
+					" ",
+					"shop/small/1.jpg",
+					"1.gravatar.com",
+					"images/shop/small/1.jpg",
+					"6.jpg",
+					"twitter",
+					"src=\"",
+					"img.*src=\"",
+					"img src=\"",
+					"avator",
+					"http://mi.com/index/article/images/shop/small/1.jpg",
+					"api",
+					"api.fli",
+					"api.flikr",
+					"api.flickr",
+					"pre",
+					"preloader.gif",
+					"avatar",
+					"avator",
+					"/index",
+					"1.jpg",
+					"api",
+					"href",
+					"src",
+					"avator",
+					"<img src=\"",
+					"src=\"/home/",
+					"qr",
+					"qra",
+					"qravatar",
+					"src=\"",
+					"TWITTER",
+					"required",
+					"require",
+					"H\n",
+					"Hello\n",
+					",\n",
+					"login",
+					"href",
+					"%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83_files",
+					"src",
+					"main",
+					"main-container",
+					"main_container",
+					"form",
+					"src",
+					"href",
+					"click",
+					"js",
+					"inde/Register",
+					"ibutton-container",
+					".ibutton-container",
+					"status",
+					"getAllCates",
+					"<img alt=\"mws admin\" ",
+					"<img alt=\"mws admin\" src=\"/BSM/Admin/images/mws-logo.png\">",
+					"MWS",
+					"mws",
+					"img",
+					"image",
+					"vhost",
+					"  	\n",
+					"request",
+					"vhost",
+					"cate",
+					"table",
+					"local",
+					"denied",
+					"local",
+					"VHOST",
+					"container",
+					"route",
+					"mws-logo-wrap",
+					"mws-stat-content",
+					"container",
+					"profile",
+					"MS-LOG",
+					"ms-logo",
+					"MS-logo",
+					"vhost",
+					"javascript",
+					"i++;",
+					");\n",
+					">';\n",
+					";\n",
+					"');\n",
+					";\n",
+					">';\n",
+					";\n",
+					");",
+					"sanwei",
+					"echo ltrim($str,'&');",
+					"\";\n",
+					"var strDate = \"现在是:\"",
+					":\"\n",
+					"		\n",
+					"reg"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"img src=\"/home/",
+					"<img src=\"/home/",
+					"src=\"",
+					"src=\"/home/",
+					"/index/U-center"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "E:\\wamp64\\www\\swall"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "E:\\wamp64\\www\\project"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/wamp64/www/swall/sftp-config.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1383,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										613,
+										613
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "cp936",
+									"incomplete_sync": null,
+									"origin_encoding": "ASCII",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 456.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/wamp64/www/swall/public/index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1780,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1780,
+										1780
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "cp936",
+									"incomplete_sync": null,
+									"origin_encoding": "ASCII",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1377.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/wamp64/www/swall/resources/views/welcome.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2563,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2079,
+										2079
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"incomplete_sync": null,
+									"origin_encoding": "ASCII",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 20.0,
+								"translation.y": 1917.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/wamp64/www/swall/routes/web.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 555,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										538,
+										538
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "cp936",
+									"incomplete_sync": null,
+									"origin_encoding": "ASCII",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 81.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/wamp64/www/swall/app/Http/Controllers/UserController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 304,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										267,
+										267
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "cp936",
+									"incomplete_sync": null,
+									"origin_encoding": "ASCII",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/E/wamp64/www/swall/resources/views/index/user/register.blade.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2477,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2460,
+										2460
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"encoding_helper_encoding": "UTF-8",
+									"incomplete_sync": null,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/E/wamp64/www/project/resources/views/index/user/register.blade.php",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 2469,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										978,
+										978
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"incomplete_sync": null,
+									"origin_encoding": "UTF-8",
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 546.0,
+								"translation.y": 324.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.958193979933,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.sftp":
+			{
+				"height": 124.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,548,197,41,1032",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"methodnotallowedhttpexception",
+						"xiaomi\\vendor\\symfony\\http-kernel\\Exception\\MethodNotAllowedHttpException.php"
+					],
+					[
+						"c0a09f042c3d5cc4e7e9f35a68094989",
+						"xiaomi\\storage\\framework\\views\\c0a09f042c3d5cc4e7e9f35a68094989"
+					],
+					[
+						"12187c4ca8aa92bd2a4c6f870173698b",
+						"xiaomi\\storage\\framework\\views\\12187c4ca8aa92bd2a4c6f870173698b"
+					],
+					[
+						"validator",
+						"xiaomi\\vendor\\laravel\\framework\\src\\Illuminate\\Validation\\Validator.php"
+					],
+					[
+						"common",
+						"xiaomi\\vendor\\danielstjules\\stringy\\tests\\CommonTest.php"
+					],
+					[
+						"jquery-1.8.3",
+						"xiaomi\\public\\BSM\\Admin\\js\\libs\\jquery-1.8.3.js"
+					],
+					[
+						"",
+						"xiaomi\\resources\\views\\index\\user\\login.blade.php"
+					],
+					[
+						"76036f84ab30d79d7b508169f68d12f1",
+						"xiaomi\\storage\\framework\\views\\76036f84ab30d79d7b508169f68d12f1"
+					],
+					[
+						"request",
+						"project\\app\\Http\\Requests\\Request.php"
+					],
+					[
+						"cd2cbb1ffe66c5886c3a1301a73d1b2b",
+						"xiaomi\\storage\\framework\\views\\cd2cbb1ffe66c5886c3a1301a73d1b2b"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 170.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 12,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
